@@ -1,0 +1,3 @@
+# Use github-actions to regenarate README for this til repo
+
+The [workflow](https://github.com/ayoubft/til/blob/main/.github/workflows/generate-readme.yml) running the [script](https://github.com/ayoubft/til/blob/main/update-readme.py)...
