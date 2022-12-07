@@ -9,7 +9,7 @@ Writing about new learnings...
 
 ### jupyter
 
-- [Cmdlinecmds](jupyter/cmdlinecmds.md)
+- [Cmd Line Commands](jupyter/cmd-line-commands.md)
 
 ### vim
 
