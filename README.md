@@ -11,6 +11,10 @@ Writing about new learnings...
 
 - [Cmd Line Commands](jupyter/cmd-line-commands.md)
 
+### make
+
+- [Makefile](make/makefile.md)
+
 ### vim
 
 - [Completion](vim/completion.md)
