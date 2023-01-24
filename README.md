@@ -3,6 +3,10 @@
 Writing about new learnings...
 
 ---
+### c
+
+- [Printf](c/printf.md)
+
 ### github-actions
 
 - [Update Til Readme](github-actions/update-til-readme.md)
