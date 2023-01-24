@@ -30,7 +30,7 @@ The above example when executed results in this:
  1234
  1234
 Pi = 3.141593 
-Now is: Tuesday 23th January 2023, 11:53
+Now is: Tuesday 24th January 2023, 11:53
 ```
 
 * Note that the first two printfs have the same output with a space padded at the left to make a width of 5 characters.
