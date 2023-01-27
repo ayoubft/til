@@ -19,6 +19,10 @@ Writing about new learnings...
 
 - [makefile](make/makefile.md)
 
+### shell
+
+- [man](shell/man.md)
+
 ### vim
 
 - [completion](vim/completion.md)
